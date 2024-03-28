@@ -1,5 +1,6 @@
 SQL Queries Analysis
-This repository contains a collection of SQL queries used for analyzing sales data from the dbo.sales$ table. These queries, labeled as Query 1, Query 2, and so forth, are designed to extract insights such as total revenue by region, revenue distribution by product line, and more.
+This repository contains a collection of SQL queries used for analyzing sales data from the dbo.sales$ table. These queries, labeled as Query 1, 
+Query 2, and so forth, are designed to extract insights such as total revenue by region, revenue distribution by product line, and more.
 
 Queries Overview
 Query 1: Total Revenue by Region:
